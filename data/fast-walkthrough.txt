@@ -1,0 +1,79 @@
+Walkthrough
+
+NOTE: This walkthrought will complete the game, but eliminates some interesting
+      steps and all the exploring.  See map.png (or map.dia) as well for help.
+      
+
+1.  Collect all the objects
+	n
+	n
+	n
+	e
+	e
+	n - You should be at the Vomit Comet now
+	d
+	get oilcan
+	u
+	s
+	w
+	w
+	n
+	n - You should be at the antique car bridge
+	d
+	get electronics
+	u
+	s
+	s
+	s
+	w - You should be in the restroom now
+	look in box
+	get urinal cake
+	throw oil at robot
+	w
+	get paper towels
+	
+2.  Get some evidence
+	e
+	e
+	s
+	s
+	s - You should be at turnstyles now
+	use towels with blood
+	
+3.  Notify the authorities
+	n
+	n
+	n
+	n
+	e
+	e
+	s - You should be at the Gate
+	give cake to guard
+	s
+	s
+	s
+	give electronics to computer
+	n
+	e
+	u - You should be in the control room
+	give bloodytowel to robot
+	
+4.  Meet the Murderer
+	d
+	w
+	n
+	n
+	n
+	w
+	w
+	w - You should be at the Mine Ride
+	n
+	w
+	u
+	
+And that's it!  Short game!
+
+	
+	
+	
+	

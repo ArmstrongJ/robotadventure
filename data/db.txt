@@ -1,0 +1,82 @@
+Tables
+	
+	Rooms
+	Objects
+	NPC
+	Talk
+	Inventory
+	Verb
+	State
+	Combine
+	Block
+	
+Rooms
+	
+	id
+	name
+	description
+	away_description
+	north
+	south
+	east
+	west
+	up
+	down
+	
+RoomContents
+
+	objectid
+	roomid	
+	
+Objects
+	
+	id
+	name
+	description
+	moveable
+	everywhere
+	person
+	presence
+	explicit
+
+Combine
+
+	id1
+	id2
+	verb
+	result
+	action
+	state
+	
+NPC
+	
+	id
+	state
+	
+Talk
+
+	id
+	verb
+	object
+	result
+	
+Inventory
+
+	id
+
+Block
+
+	id
+	room1
+	room2
+	description
+	
+State
+
+	name
+	value
+	
+		name="Start" value=roomid
+		name="Intro" value="text"
+		name="Title" value="text"
+		
